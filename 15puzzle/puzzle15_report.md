@@ -84,7 +84,7 @@
 | <strong>A*(h₀)</strong> | 14.54        | 4.07     |
 | <strong>IDS</strong> | 15.11        | 6.25     |
 
-<img src="results/15puzzle_performance_comparison_20250611_060243.png">
+<img src="./result_20250611_060243.png">
 ---
 
 ## 3. 分析と考察
