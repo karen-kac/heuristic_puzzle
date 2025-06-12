@@ -59,7 +59,7 @@
 | A*(h₁)      | 12.78 | 5.89     |
 | A*(h₂)      | 12.78 | 5.89     |
 
-<img src="results/performance_comparison_20250611_004232.png">
+<img src="result_20250611_004232.png">
 
 ## 3. 分析と考察
 
